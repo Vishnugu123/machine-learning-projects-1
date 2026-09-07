@@ -4,6 +4,9 @@ seaborn
 matplotlib
 catboost
 dill
+gunicorn
+scikit-sklearn
+
 # when i will try to install all this requiements.txt packages at same time setup.py should also trigger
-#-e .
+-e .
  
