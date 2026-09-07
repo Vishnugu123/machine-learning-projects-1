@@ -5,6 +5,7 @@ matplotlib
 catboost
 dill
 gunicorn
+Flask
 scikit-learn
 
 # when i will try to install all this requiements.txt packages at same time setup.py should also trigger
